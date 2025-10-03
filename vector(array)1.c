@@ -16,5 +16,6 @@ int main ()
 }
 
 /*
+Resultado:
 O valor da posicao eh: 5
 */

@@ -13,6 +13,7 @@ int main()
 }
 
 /*
+Resultado:
 10 
 11 
 12

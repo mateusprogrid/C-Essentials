@@ -12,6 +12,7 @@ int main()
 }
 
 /*
+Resultado:
 1 
 2 
 3

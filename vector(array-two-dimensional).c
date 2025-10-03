@@ -25,6 +25,7 @@ int main()
 }
 
 /*
+Resultado:
 Matriz 3x4
      1     2     3     4
      5     6     7     8
