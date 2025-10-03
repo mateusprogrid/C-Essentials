@@ -19,7 +19,6 @@ int main()
 }
 
 /*
-Resultado:
 O valor da posicao eh [0]: 10 
 O valor da posicao eh [1]: 20 
 O valor da posicao eh [2]: 30
