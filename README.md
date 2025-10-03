@@ -1,4 +1,4 @@
-# Linguagem C — Do Básico ao Avançado 💻🔧
+# Linguagem C - Do Básico ao Avançado 💻🔧
 
 Este repositório reúne conteúdos, exemplos e exercícios em **C**, estruturados de forma progressiva: do "Hello, World!" até **estruturas de dados complexas** e projetos práticos.  
 A ideia é servir como **guia de estudos completo**, sendo útil tanto para iniciantes quanto para quem deseja reforçar fundamentos de programação.
