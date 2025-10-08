@@ -1,7 +1,7 @@
 /*
-5. Validação com while
-Leia uma nota e repetir a leitura enquanto estiver fora do intervalo [0, 10]. 
-Ao final, mostre “nota válida”.
+ 5. Validação com while
+ Leia uma nota e repetir a leitura enquanto estiver fora do intervalo [0, 10]. 
+ Ao final, mostre “nota válida”.
 */
 #include <stdio.h>
 

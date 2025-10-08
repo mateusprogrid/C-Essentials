@@ -1,6 +1,6 @@
 /*
-4. Soma de 1 a N
-Leia um N (inteiro ≥ 1) e calcule a soma de 1 até N usando for.
+ 4. Soma de 1 a N
+ Leia um N (inteiro ≥ 1) e calcule a soma de 1 até N usando for.
 */
 #include <stdio.h>
 

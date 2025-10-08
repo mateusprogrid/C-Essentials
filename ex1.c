@@ -1,6 +1,6 @@
 /*
-1. Leitura e escrita básica
-Leia um inteiro e escreva o seu dobro usando printf.
+ 1. Leitura e escrita básica
+ Leia um inteiro e escreva o seu dobro usando printf.
 */
 #include <stdio.h>
 
