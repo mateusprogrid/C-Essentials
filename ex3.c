@@ -1,6 +1,6 @@
 /*
- 3. Contagem crescente
- Leia um N (inteiro ≥ 1) e imprima de 1 até N.
+3. Contagem crescente
+Leia um N (inteiro ≥ 1) e imprima de 1 até N.
 */
 #include <stdio.h>
 

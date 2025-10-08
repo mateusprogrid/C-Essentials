@@ -1,6 +1,6 @@
 /*
- 2. Média simples (float)
- Leia duas notas (float) e mostre a média com duas casas decimais.
+2. Média simples (float)
+Leia duas notas (float) e mostre a média com duas casas decimais.
 */
 #include <stdio.h>
 
